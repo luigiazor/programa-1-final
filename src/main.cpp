@@ -37,4 +37,5 @@ void loop() {
   client.ubidotsPublish("Potenciometro");
   client.loop();
   delay(400);
+
 }
