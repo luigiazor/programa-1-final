@@ -1,9 +1,9 @@
 #include <Arduino.h>
 #include <UbidotsESPMQTT.h>
 #include <PubSubClient.h>
-#define TOKEN "BBFF-B7JDnpp3jZ8xyxXPIJ6J9LbGEdWyVc"
-#define WIFINAME "Luigi"
-#define WIFIPASS "fuvo8846"
+#define TOKEN "token"
+#define WIFINAME "wifi"
+#define WIFIPASS "senha"
 
 Ubidots client(TOKEN);
 
